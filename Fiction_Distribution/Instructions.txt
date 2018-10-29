@@ -1,0 +1,117 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Fiction_Distribution.indd
+
+PACKAGE DATE: 21-06-2018 08:17 PM
+Creation Date: 21-06-2018
+Modification Date: 21-06-2018
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page4, 7, 16, 22, 23, 25, 26, 27, 33, 36, 37, 38, 39, 40, 41, 42, 43, 44
+
+FONTS
+19 Fonts Used; 0 Missing, 3 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldItalicMT; Type: OpenType TrueType, Status: OK
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: ArialRoundedMTBold; Type: TrueType, Status: Embedded
+- Name: HelveticaLTStd-Bold; Type: Type 1, Status: Embedded
+- Name: HelveticaLTStd-LightCond; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeue-Thin; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Th; Type: OpenType Type 1, Status: OK
+- Name: ITCAvantGardeStd-Bk; Type: OpenType Type 1, Status: OK
+- Name: ITCAvantGardeStd-BkObl; Type: OpenType Type 1, Status: OK
+- Name: ITCAvantGardeStd-Demi; Type: OpenType Type 1, Status: OK
+- Name: ITCAvantGardeStd-DemiCn; Type: OpenType Type 1, Status: OK
+- Name: ProximaNova-Regular; Type: OpenType Type 1, Status: OK
+- Name: Univers; Type: OpenType Type 1, Status: OK
+- Name: Univers-Light; Type: OpenType Type 1, Status: OK
+- Name: Univers-UltraCondensed; Type: OpenType Type 1, Status: OK
+- Name: UniversLTStd; Type: OpenType Type 1, Status: OK
+- Name: UniversLTStd-Bold; Type: OpenType Type 1, Status: OK
+- Name: UniversLTStd-Light; Type: OpenType Type 1, Status: OK
+- Name: UniversLTStd-LightObl; Type: OpenType Type 1, Status: OK
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 69 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 57 use RGB colour space
+
+
+PRINT SETTINGS
+PPD: N/A, (Microsoft XPS Document Writer)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 cm, 0 cm, 0 cm, 0 cm
+Colour: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 25.4 cm x 19.05 cm
+Paper Dimensions: 21.59 cm x 27.94 cm
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Fiction_Distribution.indd; type: Adobe InDesign publication; size: 15984K
+2. Fiction_Distribution.idml; type: InDesign Mark-up Document; size: 787K
+3. arialbi.ttf; type: Font file; size: 550K
+4. arialbd.ttf; type: Font file; size: 733K
+5. HelveticaLTStd-LightCond.otf; type: Font file; size: 27K
+6. HelveticaNeueLTStd-Th_0.otf; type: Font file; size: 28K
+7. ITCAvantGardeStd-Bk.otf; type: Font file; size: 31K
+8. ITCAvantGardeStd-BkObl.otf; type: Font file; size: 33K
+9. ITCAvantGardeStd-Demi.otf; type: Font file; size: 32K
+10. ITCAvantGardeStd-DemiCn.otf; type: Font file; size: 31K
+11. ProximaNova-Regular.otf; type: Font file; size: 92K
+12. Univers.otf; type: Font file; size: 23K
+13. Univers-Light.otf; type: Font file; size: 23K
+14. Univers-UltraCondensed.otf; type: Font file; size: 23K
+15. UniversLTStd.otf; type: Font file; size: 34K
+16. UniversLTStd-Bold.otf; type: Font file; size: 35K
+17. UniversLTStd-Light.otf; type: Font file; size: 33K
+18. UniversLTStd-LightObl.otf; type: Font file; size: 34K
