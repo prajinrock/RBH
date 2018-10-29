@@ -1,0 +1,583 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+FullName:FontAwesome
+MenuName:FontAwesome
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\FontAwesome_1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:134808
+FileModTime:1539365607
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-LightCond
+FamilyName:Helvetica LT Std
+StyleName:Light Condensed
+FullName:Helvetica LT Std Light Condensed
+MenuName:Helvetica LT Std Cond Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\HelveticaLTStd-LightCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28128
+FileModTime:1539365607
+WeightClass:300
+WidthClass:3
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Helvetica LT Std Cond Light
+NameArray:0,Mac,4,Helvetica LT Std Light Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\HelveticaNeueLTStd-Roman_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29044
+FileModTime:1539365607
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-Bk
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Book
+FullName:ITC Avant Garde Gothic Std Book
+MenuName:ITC Avant Garde Std Bk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\ITCAvantGardeStd-Bk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32760
+FileModTime:1539365607
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,18,ITC Avant Garde Std Bk
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Book
+NameArray:0,Win,1,ITC Avant Garde Std Bk
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-Demi
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Demi
+FullName:ITC Avant Garde Gothic Std Demi
+MenuName:ITC Avant Garde Std Bk
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\ITCAvantGardeStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33564
+FileModTime:1539365607
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,18,ITC Avant Garde Std Demi
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Demi
+NameArray:0,Win,1,ITC Avant Garde Std Bk
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-DemiCn
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Demi Condensed
+FullName:ITC Avant Garde Gothic Std Demi Condensed
+MenuName:ITC Avant Garde Std Bk Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\ITCAvantGardeStd-DemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32604
+FileModTime:1539365607
+WeightClass:600
+WidthClass:3
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,ITC Avant Garde Std Demi Cn
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Demi Condensed
+NameArray:0,Win,1,ITC Avant Garde Std Bk Cn
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1539365607
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\Montserrat-Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93452
+FileModTime:1539365607
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+FullName:Montserrat Light
+MenuName:Montserrat Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\Montserrat-Light_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91496
+FileModTime:1539365607
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Light
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+FullName:Roboto Bold
+MenuName:Roboto
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\Roboto-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:162464
+FileModTime:1539365607
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoCondensed-Bold
+FamilyName:Roboto Condensed
+StyleName:Bold
+FullName:Roboto Condensed Bold
+MenuName:Roboto Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\RobotoCondensed-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:127340
+FileModTime:1539365608
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Condensed Bold
+NameArray:0,Mac,4,Roboto Condensed Bold
+NameArray:0,Win,1,Roboto Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoCondensed-Regular
+FamilyName:Roboto Condensed
+StyleName:Regular
+FullName:Roboto Condensed Regular
+MenuName:Roboto Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\RobotoCondensed-Regular_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:125332
+FileModTime:1539365608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Condensed Regular
+NameArray:0,Mac,4,Roboto Condensed Regular
+NameArray:0,Win,1,Roboto Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Light
+FamilyName:Univers 45 Light
+StyleName:Regular
+FullName:Univers 45 Light
+MenuName:Univers 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\Univers-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24048
+FileModTime:1539365608
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Univers 45 Light
+NameArray:0,Win,1,Univers 45 Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-LightOblique
+FamilyName:Univers 45 Light
+StyleName:Oblique
+FullName:Univers 45 Light Oblique
+MenuName:Univers 45 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\Univers-LightOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24200
+FileModTime:1539365608
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Univers 45 Light Oblique
+NameArray:0,Win,1,Univers 45 Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-UltraCondensed
+FamilyName:Univers 59 Ultra Condensed
+StyleName:Regular
+FullName:Univers 59 Ultra Condensed
+MenuName:Univers 59 Ultra Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\Univers-UltraCondensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23656
+FileModTime:1539365608
+WeightClass:500
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Univers 59 Ultra Condensed
+NameArray:0,Win,1,Univers 59 Ultra Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-Black
+FamilyName:Univers LT Std
+StyleName:75 Black
+FullName:Univers LT Std 75 Black
+MenuName:Univers LT Std 55
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36532
+FileModTime:1539365608
+WeightClass:850
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Univers LT Std 75 Black
+NameArray:0,Win,1,Univers LT Std 55
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-Bold
+FamilyName:Univers LT Std
+StyleName:65 Bold
+FullName:Univers LT Std 65 Bold
+MenuName:Univers LT Std 45 Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36368
+FileModTime:1539365608
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Univers LT Std 65 Bold
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-BoldObl
+FamilyName:Univers LT Std
+StyleName:65 Bold Oblique
+FullName:Univers LT Std 65 Bold Oblique
+MenuName:Univers LT Std 45 Light
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd-BoldObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37408
+FileModTime:1539365608
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 65 Bold Obl
+NameArray:0,Mac,4,Univers LT Std 65 Bold Oblique
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-Light
+FamilyName:Univers LT Std
+StyleName:45 Light
+FullName:Univers LT Std 45 Light
+MenuName:Univers LT Std 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34488
+FileModTime:1539365608
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Univers LT Std 45 Light
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-LightObl
+FamilyName:Univers LT Std
+StyleName:45 Light Oblique
+FullName:Univers LT Std 45 Light Oblique
+MenuName:Univers LT Std 45 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd-LightObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35516
+FileModTime:1539365608
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 45 Light Obl
+NameArray:0,Mac,4,Univers LT Std 45 Light Oblique
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-UltraCn
+FamilyName:Univers LT Std
+StyleName:59 Ultra Condensed
+FullName:Univers LT Std 59 Ultra Condensed
+MenuName:Univers LT Std 59 UltraCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd-UltraCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31080
+FileModTime:1539365608
+WeightClass:400
+WidthClass:1
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 59 UltraCn
+NameArray:0,Mac,4,Univers LT Std 59 Ultra Condensed
+NameArray:0,Win,1,Univers LT Std 59 UltraCn
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd
+FamilyName:Univers LT Std
+StyleName:55 Roman
+FullName:Univers LT Std 55 Roman
+MenuName:Univers LT Std 55
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Unscripted_Development\Document fonts\UniversLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35100
+FileModTime:1539365608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 55
+NameArray:0,Mac,4,Univers LT Std 55 Roman
+NameArray:0,Win,1,Univers LT Std 55
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
