@@ -1,0 +1,428 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:750596
+FileModTime:1540820531
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+FullName:Arial Bold Italic
+MenuName:Arial
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\arialbi.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:563244
+FileModTime:1540820531
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Bold Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-LightCond
+FamilyName:Helvetica LT Std
+StyleName:Light Condensed
+FullName:Helvetica LT Std Light Condensed
+MenuName:Helvetica LT Std Cond Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\HelveticaLTStd-LightCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28128
+FileModTime:1540820531
+WeightClass:300
+WidthClass:3
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Helvetica LT Std Cond Light
+NameArray:0,Mac,4,Helvetica LT Std Light Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Th
+FamilyName:Helvetica Neue LT Std
+StyleName:35 Thin
+FullName:Helvetica Neue LT Std 35 Thin
+MenuName:HelveticaNeueLT Std Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\HelveticaNeueLTStd-Th_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28988
+FileModTime:1540820531
+WeightClass:250
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin
+NameArray:0,Mac,4,Helvetica Neue LT Std 35 Thin
+NameArray:0,Win,1,HelveticaNeueLT Std Thin
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-Bk
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Book
+FullName:ITC Avant Garde Gothic Std Book
+MenuName:ITC Avant Garde Std Bk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-Bk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32760
+FileModTime:1540820531
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,18,ITC Avant Garde Std Bk
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Book
+NameArray:0,Win,1,ITC Avant Garde Std Bk
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-BkObl
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Book Oblique
+FullName:ITC Avant Garde Gothic Std Book Oblique
+MenuName:ITC Avant Garde Std Bk
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-BkObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33980
+FileModTime:1540820531
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:180
+NameArray:0,Mac,18,ITC Avant Garde Std Bk Obl
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Book Oblique
+NameArray:0,Win,1,ITC Avant Garde Std Bk
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-Demi
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Demi
+FullName:ITC Avant Garde Gothic Std Demi
+MenuName:ITC Avant Garde Std Bk
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33564
+FileModTime:1540820531
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,18,ITC Avant Garde Std Demi
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Demi
+NameArray:0,Win,1,ITC Avant Garde Std Bk
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-DemiCn
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Demi Condensed
+FullName:ITC Avant Garde Gothic Std Demi Condensed
+MenuName:ITC Avant Garde Std Bk Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\ITCAvantGardeStd-DemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32604
+FileModTime:1540820531
+WeightClass:600
+WidthClass:3
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,ITC Avant Garde Std Demi Cn
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Demi Condensed
+NameArray:0,Win,1,ITC Avant Garde Std Bk Cn
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova Regular
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\ProximaNova-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94668
+FileModTime:1540820531
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Regular
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Light
+FamilyName:Univers 45 Light
+StyleName:Regular
+FullName:Univers 45 Light
+MenuName:Univers 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\Univers-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24048
+FileModTime:1540820531
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Univers 45 Light
+NameArray:0,Win,1,Univers 45 Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-UltraCondensed
+FamilyName:Univers 59 Ultra Condensed
+StyleName:Regular
+FullName:Univers 59 Ultra Condensed
+MenuName:Univers 59 Ultra Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\Univers-UltraCondensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23656
+FileModTime:1540820531
+WeightClass:500
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Univers 59 Ultra Condensed
+NameArray:0,Win,1,Univers 59 Ultra Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers
+FamilyName:Univers 55
+StyleName:Roman
+FullName:Univers 55 Roman
+MenuName:Univers 55
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\Univers.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24220
+FileModTime:1540820531
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Univers 55 Roman
+NameArray:0,Win,1,Univers 55
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-Bold
+FamilyName:Univers LT Std
+StyleName:65 Bold
+FullName:Univers LT Std 65 Bold
+MenuName:Univers LT Std 45 Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\UniversLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36368
+FileModTime:1540820531
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Univers LT Std 65 Bold
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-Light
+FamilyName:Univers LT Std
+StyleName:45 Light
+FullName:Univers LT Std 45 Light
+MenuName:Univers LT Std 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\UniversLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34488
+FileModTime:1540820531
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Univers LT Std 45 Light
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-LightObl
+FamilyName:Univers LT Std
+StyleName:45 Light Oblique
+FullName:Univers LT Std 45 Light Oblique
+MenuName:Univers LT Std 45 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\UniversLTStd-LightObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35516
+FileModTime:1540820531
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 45 Light Obl
+NameArray:0,Mac,4,Univers LT Std 45 Light Oblique
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd
+FamilyName:Univers LT Std
+StyleName:55 Roman
+FullName:Univers LT Std 55 Roman
+MenuName:Univers LT Std 55
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Documents\GitHub\RBH\Fiction_Distribution\Document fonts\UniversLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35100
+FileModTime:1540820531
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 55
+NameArray:0,Mac,4,Univers LT Std 55 Roman
+NameArray:0,Win,1,Univers LT Std 55
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
